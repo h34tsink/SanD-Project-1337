@@ -2,9 +2,9 @@
 
 assets
   | js
-    | main.js
+    / main.js
   | css
-    | body.css
+    / body.css
   | images
-    | ind.jpg
+    / ind.jpg
   index.html
